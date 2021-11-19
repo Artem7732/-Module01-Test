@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+    font-size: 70px;
+}
+
+p {
+    color: green;
+    font-size: 2rem;
+}
+
+li {
+    font-size: 1.5rem;
+    color: navy;
+}
+
+a {
+    color: orange;
+    font-size: 1.5rem;
+}
